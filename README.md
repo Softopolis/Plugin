@@ -1,2 +1,2 @@
-# Delaring variables
+# Declaring variables
 Texting
