@@ -1,0 +1,2 @@
+# Delaring variables
+Texting
